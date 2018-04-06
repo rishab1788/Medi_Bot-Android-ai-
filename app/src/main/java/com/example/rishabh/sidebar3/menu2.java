@@ -16,7 +16,8 @@ import android.widget.Button;
 
 
 public class menu2 extends Fragment {
-Button button;
+    Button button;
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -33,18 +34,15 @@ Button button;
         getActivity().setTitle("Menu 2");
         Button button = (Button) view.findViewById(R.id.btnhawa);
 
-        button.setOnClickListener(new View.OnClickListener()
-        {
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v)
-            {
+            public void onClick(View v) {
 
-                Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.tripadvisor.in/Attraction_Review-g304555-d317345-Reviews-Hawa_Mahal_Palace_of_Wind-Jaipur_Jaipur_District_Rajasthan.html"));
-               startActivity(intent);
-             }
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.tripadvisor.in/Attraction_Review-g304555-d317345-Reviews-Hawa_Mahal_Palace_of_Wind-Jaipur_Jaipur_District_Rajasthan.html"));
+                startActivity(intent);
+            }
         });
     }
-
 
 
 }

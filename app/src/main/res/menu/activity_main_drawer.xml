@@ -6,11 +6,11 @@
         <item
             android:id="@+id/nav_menu1"
             android:icon="@mipmap/ic_launcher"
-            android:title="TRAVEL ASSISTANT" />
+            android:title="Medi Bot" />
         <item
             android:id="@+id/nav_menu2"
             android:icon="@mipmap/ic_launcher"
-            android:title="Real review of places" />
+            android:title="About" />
         <item
             android:id="@+id/nav_menu3"
             android:icon="@mipmap/ic_launcher"
