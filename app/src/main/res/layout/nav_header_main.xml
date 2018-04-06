@@ -17,13 +17,13 @@
         android:layout_width="122dp"
         android:layout_height="91dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@drawable/iconapp" />
+        app:srcCompat="@drawable/icon_medi" android:contentDescription="TODO" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="Rajasthan tourism"
+        android:text="@string/medi_bot"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
 

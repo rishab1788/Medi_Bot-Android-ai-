@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">sidebar3</string>
+    <string name="app_name">Medi_Bot</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -20,4 +20,5 @@
     <string name="button">Button</string>
     <string name="press_to_say">PRESS TO SAY</string>
     <string name="hi_how_are_you_today">hi.how are you today.</string>
+    <string name="medi_bot">MEDI_BOT</string>
 </resources>

@@ -10,7 +10,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="24dp"
-        android:text="talk to our agent on this number-+918478745412"
+        android:text="this is our app"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <Button

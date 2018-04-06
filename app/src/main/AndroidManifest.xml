@@ -14,7 +14,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="Travel Bot"
-        android:roundIcon="@drawable/iconapp"
+        android:roundIcon="@drawable/icon_medi"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
           <activity
